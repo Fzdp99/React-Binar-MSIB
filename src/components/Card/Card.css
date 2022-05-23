@@ -1,0 +1,22 @@
+.card {
+  position: relative;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  background-color: #424242;
+  color: white;
+  text-overflow: ellipsis;
+  height: 250px;
+  padding: 10px;
+}
+
+.alert{
+  width: 100%;
+  background-color: #00e676;
+  color: black;
+}
+
+p{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 60px;
+}
