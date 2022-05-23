@@ -1,0 +1,20 @@
+.card {
+  position: relative;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  background-color: #424242;
+  color: white;
+  text-overflow: ellipsis;
+  height: 250px;
+  padding: 10px;
+}
+
+.alert{
+  margin-bottom: 10px;
+}
+
+.par{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 60px;
+}
